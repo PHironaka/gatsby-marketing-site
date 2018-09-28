@@ -1,0 +1,23 @@
+{
+  "title": "About",
+  "content": "content.md",
+  "gallery": [{
+    "image": "../images/gallery/group.jpg"
+  }
+  ],
+  "sectionGallery": [{
+    "title": "PHILOSOPHY",
+    "copy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irur dolor in reprehenderit",
+    "image": "../images/gallery/leaf.jpg"
+  },
+  {
+    "title": "HEADER HERE",
+    "copy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irur dolor in reprehenderit",
+    "image": "../images/gallery/leaf.jpg"
+  },
+  {
+    "title": "OUR LOCATIONS",
+    "copy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irur dolor in reprehenderit",
+    "image": "../images/gallery/intersection-observer.jpg"
+  }]
+}
