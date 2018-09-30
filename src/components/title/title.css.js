@@ -15,20 +15,22 @@ export const Text = styled.span`
   font-size: ${({ size }) => () => {
     switch (size) {
       case 'large':
-        return '3.2rem';
+        return '2.2rem';
       default:
         return '2rem';
     }
   }};
-  line-height: 1.2;
+  line-height: 1.6;
+  max-width: 557px;
+  margin: 0 auto 3em auto;
 
   ${MEDIA.TABLET`
     font-size: ${({ size }) => () => {
       switch (size) {
         case 'large':
-          return '2.6rem';
+          return '1.6rem';
         default:
-          return '2rem';
+          return '1.3rem';
       }
     }};
   `};

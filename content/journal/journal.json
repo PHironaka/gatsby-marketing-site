@@ -1,0 +1,43 @@
+{
+  "title": "Home",
+  "content": "intro.md",
+  "hero": [{
+    "image": "../images/gallery/journal-header.jpg"
+  }],
+  "gallery": [{
+    "title": "THE TRUTH ON BANDS",
+    "copy": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "image": "../images/gallery/react-context.jpg"
+  },
+  {
+    "title": "FITNESS OR FAD?",
+    "copy": "Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed doeiusmod tempor incididunt utlabore et dolore magna aliqua.",
+    "image": "../images/gallery/page-transitions.jpg"
+  },
+
+  {
+    "title": "THE TRUTH ON BANDS",
+    "copy": "Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed doeiusmod tempor incididunt utlabore et dolore magna aliqua.",
+    "image": "../images/gallery/page-transitions.jpg"
+  },
+
+  {
+    "title": "THE TRUTH ON BANDS",
+    "copy": "Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed doeiusmod tempor incididunt utlabore et dolore magna aliqua.",
+    "image": "../images/gallery/page-transitions.jpg"
+  },
+
+  {
+    "title": "Page Transitions",
+    "copy": "Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed doeiusmod tempor incididunt utlabore et dolore magna aliqua.",
+    "image": "../images/gallery/page-transitions.jpg"
+  },
+
+
+  {
+    "title": "Intersection Observer",
+    "copy": "Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed doeiusmod tempor incididunt utlabore et dolore magna aliqua.",
+    "image": "../images/gallery/intersection-observer.jpg"
+  }]
+}
+

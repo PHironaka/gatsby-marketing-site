@@ -10,6 +10,15 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-transformer-json`,
     `gatsby-transformer-remark`,
+     {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Sorts Mill Goudy']
+        }
+      }
+    },
+    
     {
       resolve: `gatsby-source-filesystem`,
       options: {
