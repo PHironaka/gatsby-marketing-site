@@ -26,7 +26,7 @@ img {
 }
 
   a {
-    color: #757575;
+    color: #000;
     transition: color 0.2s ease;
     text-decoration: none;
 

@@ -1,6 +1,4 @@
 import React from 'react';
-import { Link } from 'gatsby';
-import { Container } from './center.css';
 import Logo from 'components/footer/img/logo-dw.svg';
 
 const Copyright = () => (

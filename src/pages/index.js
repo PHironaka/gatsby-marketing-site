@@ -2,6 +2,7 @@ import React from 'react';
 import Layout from 'components/layout';
 import Box from 'components/box';
 import Title from 'components/title';
+import Newsletter from 'components/newsletter';
 import Gallery from 'components/gallery';
 import Hero from 'components/hero';
 import { graphql } from 'gatsby';
@@ -16,9 +17,10 @@ export default ({ data }) => (
       </Title>
 
 
-    </Box>
+ 
     <Gallery items={data.homeJson.gallery} />
-    <div style={{ height: '50vh' }} />
+    <Newsletter> {data.homeJson.content.childMarkdownRemark.rawMarkdownBody}< /Newsletter>
+     </Box>
   </Layout>
 );
 

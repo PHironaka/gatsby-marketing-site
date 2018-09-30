@@ -5,10 +5,8 @@ export const Container = styled.div`
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   padding: 0 4rem;
-  margin: 2rem 0;
+  margin: 4em 0;
 
-
-  
 
   ${MEDIA.TABLET`
     display: block;

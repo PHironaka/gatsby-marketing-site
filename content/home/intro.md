@@ -1,1 +1,3 @@
-An opinionated starter for using Gatsby v2 with React Context, tag-agnostic styled-components, page transitions and scroll events with IntersectionObserver.
+Danford Works is the world’s first immersive physical therapy
+experience. We have both a physical presence, as well as an
+online platform to keep our members active and healthy.

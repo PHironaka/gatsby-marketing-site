@@ -1,19 +1,19 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import { Container } from './nav.css';
+import { Container } from './navLeft.css';
 
 const Nav = () => (
   <Container>
     <ul>
       <li>
-        <Link to="/press">Press</Link>
+        <Link to="/about">about</Link>
       </li>
       <li>
-        <Link to="/journal">Journal</Link>
+        <Link to="/">contact</Link>
       </li>
        
       <li>
-        <a href="/">Members / Login</a>
+        <a href="/">locations</a>
       </li>
     </ul>
   </Container>

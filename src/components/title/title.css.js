@@ -21,8 +21,8 @@ export const Text = styled.span`
     }
   }};
   line-height: 1.6;
-  max-width: 557px;
-  margin: 0 auto 3em auto;
+  max-width: 600px;
+  margin: 0 auto 4em auto;
 
   ${MEDIA.TABLET`
     font-size: ${({ size }) => () => {

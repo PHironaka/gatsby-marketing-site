@@ -1,19 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Title, Copy, Section } from './item.css';
 import Img from 'gatsby-image';
+import { Title, Copy } from './item.css';
 
 const Item = ({ title, copy, image }) => (
-
-    
-    <Section>
-      <Img fluid={image ? image.childImageSharp.fluid : {}}  className="aboutImage" alt={title} />
-      <div class="about-copy">
-      <Title>{title} </Title>
+  <figure>
+    <figcaption>
       <Copy>{copy}</Copy>
-      </div>
-    </Section>
-
+      
+      <Title>{title}</Title>
+    </figcaption>
+  </figure>
 );
 
 Item.propTypes = {
@@ -23,4 +20,3 @@ Item.propTypes = {
 };
 
 export default Item;
-

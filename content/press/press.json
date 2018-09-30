@@ -1,0 +1,26 @@
+{
+  "title": "Home",
+  "content": "intro.md",
+  "hero": [{
+    "image": "../images/gallery/journal-header.jpg"
+  }],
+  "gallery": [{
+    "title": "- The New York Times",
+    "copy": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doeiusmod tempor incididunt ut labore.”"
+  },
+  {
+    "title": "- The Washington Post",
+    "copy": "“Danford Works is the greatest innovation in physical therapy.”"
+  },
+
+  {
+    "title": "- GOOP",
+    "copy": "“I’ve never felt better”"
+  },
+
+  {
+    "title": "- THE ECONOMIST",
+    "copy": "“Danford Works is rapidly changing the face of physical therapy. Gone are suburban strip-mall connotations.”"
+  }]
+}
+
